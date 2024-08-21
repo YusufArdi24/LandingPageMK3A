@@ -1,4 +1,3 @@
-/* General Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -41,7 +40,7 @@ header .cart a {
 }
 
 .hero {
-    background-image: url('1de637aa47409992ad8817f3a9622086.jpg');
+    background-image: url('Asset/1de637aa47409992ad8817f3a9622086.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
